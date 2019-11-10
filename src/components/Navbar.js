@@ -21,7 +21,7 @@ export default class Navbar extends Component {
           <li className="nav-items ml-5">
 
             <Link to="/" className="nav-link">
-              Cinemax Onilne Movies
+              Cinemaxz Onilne Movies
 
             </Link>
           </li>
